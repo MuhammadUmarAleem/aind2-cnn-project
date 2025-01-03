@@ -4,8 +4,8 @@ This repository contains code for the Convolutional Neural Networks project as p
 
 ## Repository Structure
 
-- `transfer-learning/bottleneck_features.ipynb`: Notebook to calculate VGG-16 bottleneck features on a toy dataset.
-- `transfer-learning/transfer_learning.ipynb`: Notebook to train a CNN to classify dog breeds using transfer learning.
+- `bottleneck_features.ipynb`: Notebook to calculate VGG-16 bottleneck features on a toy dataset.
+- `transfer_learning.ipynb`: Notebook to train a CNN to classify dog breeds using transfer learning.
 
 ## Setup Instructions
 
